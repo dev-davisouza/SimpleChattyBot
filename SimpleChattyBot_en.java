@@ -55,6 +55,6 @@ public class SimpleChattyBot {
             }
     }
     static void end() {
-        System.out.println("Congratulations, have a nice day!\nNever Stop to learnig!"); // Do not change this text
+        System.out.println("Congratulations, have a nice day!\nNever Stop to learnig!"); 
         }
 }
