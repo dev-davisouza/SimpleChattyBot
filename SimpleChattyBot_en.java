@@ -13,8 +13,8 @@ public class SimpleChattyBot {
     }
 
     static void greet(String assistantName, String birthYear) {
-        System.out.println("Hello! My name is " + assistantName + ".");
-        System.out.println("I was created in " + birthYear + ".");
+        System.out.println("Hello, i'm the assistant " + assistantName + ".");
+        System.out.println("I was created in " + birthYear + " by Davi Souza.");
         System.out.println("Please, remind me your name.");
     }
 
@@ -55,6 +55,6 @@ public class SimpleChattyBot {
             }
     }
     static void end() {
-        System.out.println("Congratulations, have a nice day!"); // Do not change this text
+        System.out.println("Congratulations, have a nice day!\nNever Stop to learnig!"); // Do not change this text
         }
 }
