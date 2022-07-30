@@ -4,7 +4,7 @@ public class SimpleChattyBot {
     final static Scanner scanner = new Scanner(System.in); 
 
     public static void main(String[] args) {
-        greet("Aid", "2018"); // change it as you need
+        greet("Bot", "2022"); // change it as you need
         remindName();
         guessAge();
         count();
